@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "85a082e590b4989816a649e3e3ca125f"
+build_time: [1631197055, 292398000]
+inputs:
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhoto.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosDataSource.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosInteractionAnimator.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosOverlayView.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosTransitionAnimator.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotoViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/INSScalingImageView.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Pods/INSPhotoGallery/INSPhotoGallery/UIVIew+INSPhotoViewer.swift": [9223372036, 854775807]

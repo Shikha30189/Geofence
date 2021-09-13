@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "60f9d7a3605756ff41ed5fe2ff40cc4a"
+build_time: [1631533577, 299281000]
+inputs:
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhoto.swift": [1628675471, 134749323]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosDataSource.swift": [1628675471, 132312140]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosInteractionAnimator.swift": [1628675471, 132908883]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosOverlayView.swift": [1628675471, 134277536]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosTransitionAnimator.swift": [1628675471, 132705886]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotosViewController.swift": [1628675471, 132490555]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSPhotoViewController.swift": [1628675471, 134440451]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/INSScalingImageView.swift": [1628675471, 134137204]
+  "/Users/shikha/Documents/DianProjects/Location/Pods/INSPhotoGallery/INSPhotoGallery/UIVIew+INSPhotoViewer.swift": [1628675471, 134893780]

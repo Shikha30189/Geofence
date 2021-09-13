@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "3efad15192efa154c9746e4603e8f9c3"
+build_time: [1631197066, 795129000]
+inputs:
+  "/Users/shikha/Downloads/Location 2/Location/ViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/GalleryViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/HomeTabbarControllerViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/AsyncTask.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/LocationService.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/CameraViewController.swift": [9223372036, 854775807]
+  "/Users/shikha/Downloads/Location 2/Location/LocationViewController.swift": [9223372036, 854775807]

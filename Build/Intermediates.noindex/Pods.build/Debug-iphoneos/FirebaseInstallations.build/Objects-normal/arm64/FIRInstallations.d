@@ -1,0 +1,57 @@
+dependencies: \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m \
+  /Users/shikha/Documents/DianProjects/Location/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseInstallations.build/module.modulemap \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromises.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/PromisesObjC.build/module.modulemap \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Wrap.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Validate.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Timeout.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Then.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Testing.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Retry.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Reduce.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Recover.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Race.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Do.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Delay.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Catch.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Await.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Async.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Any.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Always.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromiseError.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Products/Debug-iphoneos/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+All.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/shikha/Documents/DianProjects/Location/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResultInternal.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h \
+  /Users/shikha/Documents/DianProjects/Location/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h

@@ -1,0 +1,145 @@
+Target dependency graph (27 targets)
+nanopb in Pods
+GoogleDataTransport in Pods, depends on:
+nanopb in Pods (explicit)
+PromisesObjC in Pods
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseAnalytics in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+leveldb-library in Pods
+FirebaseDatabase in Pods, depends on:
+FirebaseCore in Pods (explicit)
+leveldb-library in Pods (explicit)
+GTMSessionFetcher in Pods
+FirebaseStorage in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAnalytics in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseDatabase in Pods (explicit)
+FirebaseStorage in Pods (explicit)
+Haneke in Pods
+INSPhotoGallery-INSPhotoGallery in Pods
+INSPhotoGallery in Pods, depends on:
+INSPhotoGallery-INSPhotoGallery in Pods (explicit)
+IQKeyboardManagerSwift in Pods
+SDWebImage in Pods
+SwiftKeychainWrapper in Pods
+SwiftPhotoGallery in Pods
+Pods-Location in Pods, depends on:
+Firebase in Pods (explicit)
+FirebaseAnalytics in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseDatabase in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseStorage in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Haneke in Pods (explicit)
+INSPhotoGallery in Pods (explicit)
+IQKeyboardManagerSwift in Pods (explicit)
+PromisesObjC in Pods (explicit)
+SDWebImage in Pods (explicit)
+SwiftKeychainWrapper in Pods (explicit)
+SwiftPhotoGallery in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+Location in Location, depends on:
+Pods-Location in Pods (implicit dependency via file 'Pods_Location.framework' in build phase 'Link Binary'
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS'
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS'
+FirebaseCoreDiagnostics in Pods (implicit dependency via options '-framework FirebaseCoreDiagnostics' in build setting 'OTHER_LDFLAGS'
+FirebaseDatabase in Pods (implicit dependency via options '-framework FirebaseDatabase' in build setting 'OTHER_LDFLAGS'
+FirebaseInstallations in Pods (implicit dependency via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS'
+FirebaseStorage in Pods (implicit dependency via options '-framework FirebaseStorage' in build setting 'OTHER_LDFLAGS'
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS'
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS'
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS'
+Haneke in Pods (implicit dependency via options '-framework Haneke' in build setting 'OTHER_LDFLAGS'
+INSPhotoGallery in Pods (implicit dependency via options '-framework INSPhotoGallery' in build setting 'OTHER_LDFLAGS'
+IQKeyboardManagerSwift in Pods (implicit dependency via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS'
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+SwiftKeychainWrapper in Pods (implicit dependency via options '-framework SwiftKeychainWrapper' in build setting 'OTHER_LDFLAGS'
+SwiftPhotoGallery in Pods (implicit dependency via options '-framework SwiftPhotoGallery' in build setting 'OTHER_LDFLAGS'
+leveldb-library in Pods (implicit dependency via options '-framework leveldb' in build setting 'OTHER_LDFLAGS'
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS'
+Pods-LocationTests in Pods, depends on:
+Pods-Location in Pods (explicit)
+LocationTests in Location, depends on:
+Location in Location (explicit)
+Pods-LocationTests in Pods (implicit dependency via file 'Pods_LocationTests.framework' in build phase 'Link Binary'
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS'
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS'
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS'
+Haneke in Pods (implicit dependency via options '-framework Haneke' in build setting 'OTHER_LDFLAGS'
+INSPhotoGallery in Pods (implicit dependency via options '-framework INSPhotoGallery' in build setting 'OTHER_LDFLAGS'
+IQKeyboardManagerSwift in Pods (implicit dependency via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS'
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+SwiftKeychainWrapper in Pods (implicit dependency via options '-framework SwiftKeychainWrapper' in build setting 'OTHER_LDFLAGS'
+SwiftPhotoGallery in Pods (implicit dependency via options '-framework SwiftPhotoGallery' in build setting 'OTHER_LDFLAGS'
+leveldb-library in Pods (implicit dependency via options '-framework leveldb' in build setting 'OTHER_LDFLAGS'
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS'
+Pods-Location-LocationUITests in Pods, depends on:
+Firebase in Pods (explicit)
+FirebaseAnalytics in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseDatabase in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseStorage in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Haneke in Pods (explicit)
+INSPhotoGallery in Pods (explicit)
+IQKeyboardManagerSwift in Pods (explicit)
+PromisesObjC in Pods (explicit)
+SDWebImage in Pods (explicit)
+SwiftKeychainWrapper in Pods (explicit)
+SwiftPhotoGallery in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+LocationUITests in Location, depends on:
+Location in Location (explicit)
+Pods-Location-LocationUITests in Pods (implicit dependency via file 'Pods_Location_LocationUITests.framework' in build phase 'Link Binary'
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS'
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS'
+FirebaseCoreDiagnostics in Pods (implicit dependency via options '-framework FirebaseCoreDiagnostics' in build setting 'OTHER_LDFLAGS'
+FirebaseDatabase in Pods (implicit dependency via options '-framework FirebaseDatabase' in build setting 'OTHER_LDFLAGS'
+FirebaseInstallations in Pods (implicit dependency via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS'
+FirebaseStorage in Pods (implicit dependency via options '-framework FirebaseStorage' in build setting 'OTHER_LDFLAGS'
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS'
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS'
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS'
+Haneke in Pods (implicit dependency via options '-framework Haneke' in build setting 'OTHER_LDFLAGS'
+INSPhotoGallery in Pods (implicit dependency via options '-framework INSPhotoGallery' in build setting 'OTHER_LDFLAGS'
+IQKeyboardManagerSwift in Pods (implicit dependency via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS'
+SDWebImage in Pods (implicit dependency via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+SwiftKeychainWrapper in Pods (implicit dependency via options '-framework SwiftKeychainWrapper' in build setting 'OTHER_LDFLAGS'
+SwiftPhotoGallery in Pods (implicit dependency via options '-framework SwiftPhotoGallery' in build setting 'OTHER_LDFLAGS'
+leveldb-library in Pods (implicit dependency via options '-framework leveldb' in build setting 'OTHER_LDFLAGS'
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS'

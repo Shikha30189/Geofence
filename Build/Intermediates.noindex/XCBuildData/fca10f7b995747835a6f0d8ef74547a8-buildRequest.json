@@ -1,0 +1,52 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "f8296182cb4f3f7f451cf332984d8bd68f95ff5d3f8bd6ef4f060898c0ff49e9"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shikha/Downloads/Location 2/Build/Products",
+      "derivedDataPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData/Location-hekavppkbqikkdhbmqgzcpylhbxe/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData/Location-hekavppkbqikkdhbmqgzcpylhbxe/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

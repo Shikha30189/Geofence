@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "05846f66c512c984dc0bd54cb6889b8a"
+build_time: [1631021234, 145278000]
+inputs:
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftPhotoGallery/Pod/Classes/PanDirectionGestureRecognizer.swift": [1628078040, 27287362]
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftPhotoGallery/Pod/Classes/SwiftPhotoGallery.swift": [1628079833, 920472402]
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftPhotoGallery/Pod/Classes/SwiftPhotoGalleryCell.swift": [1628078040, 27196946]

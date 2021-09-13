@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "cc8203f52669a099e5f0e253aefe644e"
+build_time: [1631533554, 331138000]
+inputs:
+  "/Users/shikha/Documents/DianProjects/Location/Location/ViewController.swift": !dirty [1631528433, 711452484]
+  "/Users/shikha/Documents/DianProjects/Location/Location/GalleryViewController.swift": !dirty [1631173966, 566399455]
+  "/Users/shikha/Documents/DianProjects/Location/Location/HomeTabbarControllerViewController.swift": !dirty [1627893015, 897523522]
+  "/Users/shikha/Documents/DianProjects/Location/Location/AsyncTask.swift": !dirty [1629171659, 347339153]
+  "/Users/shikha/Documents/DianProjects/Location/Location/AppDelegate.swift": !dirty [1631174321, 5150080]
+  "/Users/shikha/Documents/DianProjects/Location/Location/LocationService.swift": !dirty [1631528433, 868979335]
+  "/Users/shikha/Documents/DianProjects/Location/Location/CameraViewController.swift": !dirty [1631172185, 349523067]
+  "/Users/shikha/Documents/DianProjects/Location/Location/LocationViewController.swift": !dirty [1627905589, 134851694]

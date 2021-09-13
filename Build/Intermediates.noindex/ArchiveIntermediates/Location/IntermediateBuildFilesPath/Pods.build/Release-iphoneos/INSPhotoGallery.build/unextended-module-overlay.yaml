@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/Release-iphoneos/INSPhotoGallery/INSPhotoGallery.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/INSPhotoGallery.build/unextended-module.modulemap",
+    }]
+  }]
+}

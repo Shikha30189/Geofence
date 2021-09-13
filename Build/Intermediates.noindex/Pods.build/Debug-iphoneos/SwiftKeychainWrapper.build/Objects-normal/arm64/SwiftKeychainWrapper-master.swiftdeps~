@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "825868a8ef309c664e17ed46c83c340a"
+build_time: [1631021234, 145273000]
+inputs:
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainItemAccessibility.swift": [1627543348, 205926638]
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainWrapper.swift": [1627543348, 205622973]
+  "/Users/shikha/Downloads/Location 2/Pods/SwiftKeychainWrapper/SwiftKeychainWrapper/KeychainWrapperSubscript.swift": [1627543348, 205740139]

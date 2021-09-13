@@ -1,0 +1,68 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "f8296182cb4f3f7f451cf332984d8bd68f95ff5d3f8bd6ef4f060898c0ff49e9"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos14.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shikha/Downloads/Location 2/Build/Products",
+      "derivedDataPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData/Location-hekavppkbqikkdhbmqgzcpylhbxe/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shikha/Library/Developer/Xcode/DerivedData/Location-hekavppkbqikkdhbmqgzcpylhbxe/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/WatchKitSupport2",
+          "WATCHKIT_SUPPORT_FOLDER_PATH" : "/Users/shikha/Downloads/Location 2/Build/Intermediates.noindex/ArchiveIntermediates/Location/BuildProductsPath/WatchKitSupport"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

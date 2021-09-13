@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "75d4dcde5adc2b73cefc98144a2425d4"
+build_time: [1631021236, 214180000]
+inputs:
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQTextView.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift": [1626180574, 0]
+  "/Users/shikha/Downloads/Location 2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift": [1626180574, 0]
